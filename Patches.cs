@@ -21,6 +21,11 @@ using UnityEngine;
 
 namespace BetterInOutArrows
 {
+    // BUG only loads _need_ items correctly
+    // ideas:
+    // try looking at other hooks
+    // try looking at original source code for references
+    // ask the discord of course
     [HarmonyPatch(typeof(Assets), "OnPrefabInit")]
     public class Assets_OnPrefabInit_Patch
     {
