@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ONI Mod", "ONI Mod.csproj", "{659C9119-6935-4F31-9143-9D82B5029429}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterInOutArrows", "BetterInOutArrows.csproj", "{D240E2A1-85A0-4B12-802B-53F35059509C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{659C9119-6935-4F31-9143-9D82B5029429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{659C9119-6935-4F31-9143-9D82B5029429}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{659C9119-6935-4F31-9143-9D82B5029429}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{659C9119-6935-4F31-9143-9D82B5029429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D240E2A1-85A0-4B12-802B-53F35059509C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D240E2A1-85A0-4B12-802B-53F35059509C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D240E2A1-85A0-4B12-802B-53F35059509C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D240E2A1-85A0-4B12-802B-53F35059509C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
